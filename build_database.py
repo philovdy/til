@@ -14,8 +14,11 @@ def created_changed_times(repo_path, ref="master"):
     for commit in commits:
         dt = commit.committed_datetime
         print('dt is ', dt)
+        print('commit is ', commit)
         affected_files = list(commit.stats.files.keys())
+        print('affected files ', affected_files)
         for filepath in affected_files:
+            print('filepath ', filepath)
             if filepath not in created_changed_times:
                 created_changed_times[filepath] = {
                     "created": dt.isoformat(),

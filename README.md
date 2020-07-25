@@ -11,6 +11,7 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 
 * [Convert a datetime object to UTC without using pytz](https://github.com/philovdy/til/blob/master/python/convert-to-utc-without-pytz.md) - 2020-07-25
 * [Testing](https://github.com/philovdy/til/blob/master/python/test.md) - 2020-07-25
+* [Double hash works ?](https://github.com/philovdy/til/blob/master/python/python_check.md) - 2020-07-25
 
 ## sqlite
 

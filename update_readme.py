@@ -18,8 +18,11 @@ if __name__ == "__main__":
         index.append("## {}\n".format(topic))
         for row in rows:
             index.append(
-                "* [{title}]({url}) - {date}".format(
-                    date=row["created"].split("T")[0], **row
+#                 "* [{title}]({url}) - {date}".format(
+#                     date=row["created"].split("T")[0], **row
+                    
+                "* [{title}]({url})".format(
+                    **row
                 )
             )
         index.append("")

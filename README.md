@@ -8,6 +8,7 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 * [Convert a datetime object to UTC without using pytz](https://github.com/philovdy/til/blob/master/python/convert-to-utc-without-pytz.md)
 * [Testing](https://github.com/philovdy/til/blob/master/python/test.md)
 * [Double hash works ?](https://github.com/philovdy/til/blob/master/python/python_check.md)
+* [Testing if removal / renaming of all the index files will have a problem with this til read me update](https://github.com/philovdy/til/blob/master/python/RemovedIndexFiles.md)
 
 ## sqlite
 

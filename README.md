@@ -10,6 +10,7 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 ## python
 
 * [Convert a datetime object to UTC without using pytz](https://github.com/simonw/til/blob/master/python/convert-to-utc-without-pytz.md) - 2020-07-25
+* [Testing](https://github.com/simonw/til/blob/master/python/test.md) - 2020-07-25
 
 ## sqlite
 
@@ -21,6 +22,4 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 * [Commit a file if it changed](https://github.com/simonw/til/blob/master/github-actions/commit-if-file-changed.md) - 2020-07-25
 * [Only run GitHub Action on push to master](https://github.com/simonw/til/blob/master/github-actions/only-master.md) - 2020-07-25
 * [Dump out all GitHub Actions context](https://github.com/simonw/til/blob/master/github-actions/dump-context.md) - 2020-07-25
-
-
 <!-- index ends -->

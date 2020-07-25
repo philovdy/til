@@ -13,6 +13,7 @@ def created_changed_times(repo_path, ref="master"):
     commits = reversed(list(repo.iter_commits(ref)))
     for commit in commits:
         dt = commit.committed_datetime
+        print('dt is ', dt)
         affected_files = list(commit.stats.files.keys())
         for filepath in affected_files:
             if filepath not in created_changed_times:

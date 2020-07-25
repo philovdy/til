@@ -14,6 +14,7 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 
 * [Lag window function in SQLite](https://github.com/philovdy/til/blob/master/sqlite/lag-window-function.md)
 * [Sql new 3 34 hash](https://github.com/philovdy/til/blob/master/sqlite/sql_new_3_24.md)
+* [Deleted template vars](https://github.com/philovdy/til/blob/master/sqlite/deleted_template_vars.md)
 
 ## github-actions
 

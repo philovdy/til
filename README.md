@@ -9,6 +9,7 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 * [Testing](https://github.com/philovdy/til/blob/master/python/test.md) - 2020-07-25
 * [Double hash works ?](https://github.com/philovdy/til/blob/master/python/python_check.md) - 2020-07-25
 * [Testing if removal / renaming of all the index files will have a problem with this til read me update](https://github.com/philovdy/til/blob/master/python/RemovedIndexFiles.md) - 2020-07-25
+* [For testing the date sorting - 2](https://github.com/philovdy/til/blob/master/python/python_setdefault.md) - 2020-07-26
 
 ## sqlite
 

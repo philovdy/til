@@ -9,6 +9,8 @@ root = pathlib.Path(__file__).parent.resolve()
 index_re = re.compile(r"<!\-\- index starts \-\->.*<!\-\- index ends \-\->", re.DOTALL)
 count_re = re.compile(r"<!\-\- count starts \-\->.*<!\-\- count ends \-\->", re.DOTALL)
 
+COUNT_TEMPLATE = "<!-- count starts -->{}<!-- count ends -->"
+
 if __name__ == "__main__":
     db = sqlite_utils.Database(root / "til.db")
     by_topic = {}
